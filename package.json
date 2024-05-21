@@ -1,0 +1,21 @@
+{
+  "name": "copilot-training",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpradanaappen/copilot-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpradanaappen/copilot-training/issues"
+  },
+  "homepage": "https://github.com/rpradanaappen/copilot-training#readme"
+}
