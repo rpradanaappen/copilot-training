@@ -84,3 +84,4 @@ export function checkPasswordWithoutRegEx(password) {
     }
 }
   
+// add comment test

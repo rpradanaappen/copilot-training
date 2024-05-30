@@ -1,0 +1,22 @@
+# FILEPATH
+
+def my_function(param1, param2):
+    """
+    This function performs a specific task.
+
+    Args:
+        param1 (type): Description of param1.
+        param2 (type): Description of param2.
+
+    Returns:
+        type: Description of the return value.
+
+    Raises:
+        Exception: Description of the exception raised.
+
+    Example:
+        >>> my_function(1, 2)
+        Output: 3
+    """
+    # Function implementation goes here
+    pass
